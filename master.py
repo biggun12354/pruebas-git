@@ -1,2 +1,2 @@
-x= "mi bebida favorita es el ron con piña"
+x= "comida favorita es la lasaña"
 print (x)
