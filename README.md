@@ -1,1 +1,1 @@
-este es mi readme
+el readme del grupo
