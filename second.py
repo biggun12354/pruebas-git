@@ -1,3 +1,3 @@
-y ="ya yo trabaje en eso" 
+y ="mi perro le gusta la purina" 
 
 print (y)
