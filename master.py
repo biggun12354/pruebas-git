@@ -1,2 +1,2 @@
-x= "buenas mañanas"
+x= "su comida favorita es la lasaña"
 print (x)
